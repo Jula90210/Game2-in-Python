@@ -8,3 +8,4 @@ The player's task is to arrange the tetrimino on the board (by using rotation an
 When this happens, this row is deleted and the remaining blocks drop to the bottom, creating more space for the next items.
 
 ![tetris](https://user-images.githubusercontent.com/53537695/93004899-d39f3480-f54b-11ea-96fc-55ce0b671e0a.jpg) 
+![tetr](https://user-images.githubusercontent.com/53537695/93004949-938c8180-f54c-11ea-9739-488b9607786e.jpg)
